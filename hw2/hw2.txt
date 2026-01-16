@@ -1,0 +1,10 @@
+145.254.160.237,65.208.228.223,216.239.59.99,76.74.254.125,192.168.1.141
+icanhascheezburger.files.wordpress.com
+192.168.0.2,192.168.0.1
+user
+Last login: Sat Nov 27 20:11:43 on ttyp2 from bam.zing.org
+ping,ls,ls -a,exit
+edmond
+cs.uic.edu
+ls,echo,echo,ping,echo,exit
+131.193.34.202,100,/xampp/index.php
